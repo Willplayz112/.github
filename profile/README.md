@@ -1,6 +1,6 @@
-# VoidModding
+# Void Modding
 
-Welcome to **VoidModding** – the home of the Void Mod Manager, a powerful and intuitive tool designed to simplify mod management for your favorite games.
+Welcome to **Void Modding** – the home of the Void Mod Manager, a powerful and intuitive tool designed to simplify mod management for your favorite games.
 
 ## 🚀 About Void Mod Manager
 
@@ -44,5 +44,3 @@ We welcome contributions from the community! Whether you're fixing bugs, adding 
 Our projects are open source and available under various licenses. Check individual repositories for specific licensing information.
 
 ---
-
-*Empowering gamers to mod with confidence* ✨
